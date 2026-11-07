@@ -1,0 +1,8 @@
+/gitignore_this/
+/github_upload/
+
+# Keep only the three homework notebooks in work/.
+/work/*
+!/work/p1.ipynb
+!/work/p2.ipynb
+!/work/p3.ipynb
